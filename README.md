@@ -38,7 +38,7 @@ A two-way offline dictionary with **372,000 phrases** (186,000 per direction). I
 > 🌐 **UI Language:** Croatian (HR)
 
 A specialized search engine for Croatian legislation (Official Gazette). Designed to track linked documents and amendments for any specific law.
-* **Tech:** Android SDK, SQLite, Custom Search Engine
+* **Tech:** Android SDK, MySQL, Custom Search Engine
 * [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.space.lexhr)
 
 ---
