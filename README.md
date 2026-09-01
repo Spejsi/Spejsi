@@ -48,7 +48,7 @@ A specialized search engine for Croatian legislation (Official Gazette). Designe
 
 A series of 4 educational handbook apps covering the proofread Croatian primary school math curriculum, definitions, and formulas for grades 5 to 8.
 * **Tech:** Android SDK
-* [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika5)
-* [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika6)
-* [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika7)
-* [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika8)
+* [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika5) Matematika 5 osnovna škola
+* [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika6) Matematika 6 osnovna škola
+* [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika7) Matematika 7 osnovna škola
+* [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika8) Matematika 8 osnovna škola
