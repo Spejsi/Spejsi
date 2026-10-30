@@ -1,5 +1,5 @@
 # Hi there, I'm Spejsi 👋
-Android Developer | Author of an offline dictionary, a legal search app, a customizable clock widget, a mental math game, a stopwatch, a barcode tool, and 4 primary school math handbooks.
+Android Developer & Creator of utility tools, educational apps, and indie games.
 
 🌐 **Website:** [Spacedancer.org](https://www.spacedancer.org/)
 
