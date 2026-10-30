@@ -85,11 +85,10 @@ A specialized legal search engine tailored for Croatian legislation (Official Ga
 
 A comprehensive series of 4 educational handbook applications covering the proofread Croatian primary school math curriculum, including key definitions, formulas, and structured examples for grades 5 through 8.
 - **Tech Stack:** Android SDK, Structured Resource Rendering, Google Mobile Ads SDK
-- [<img src="https://img.shields.io/badge/Google_Play-Math_5-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika5)
-- [<img src="https://img.shields.io/badge/Google_Play-Math_6-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika6)
-- [<img src="https://img.shields.io/badge/Google_Play-Math_7-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika7)
-- [<img src="https://img.shields.io/badge/Google_Play-Math_8-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika8)
-- [<img src="https://img.shields.io/badge/Website-Series_Overview-blue?logo=google&logoColor=white" />](https://www.spacedancer.org/en/apps/mat-5.html)
+- Matematika 5: [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika5) | [<img src="https://img.shields.io/badge/Website-Learn_More-blue?logo=google&logoColor=white" />](https://www.spacedancer.org/en/apps/mat-5.html)
+- Matematika 6: [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika6) | [<img src="https://img.shields.io/badge/Website-Learn_More-blue?logo=google&logoColor=white" />](https://www.spacedancer.org/en/apps/mat-6.html)
+- Matematika 7: [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika7) | [<img src="https://img.shields.io/badge/Website-Learn_More-blue?logo=google&logoColor=white" />](https://www.spacedancer.org/en/apps/mat-7.html)
+- Matematika 8: [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.mat3matika8) | [<img src="https://img.shields.io/badge/Website-Learn_More-blue?logo=google&logoColor=white" />](https://www.spacedancer.org/en/apps/mat-8.html)
 
 ---
 
