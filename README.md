@@ -92,14 +92,12 @@ A comprehensive series of 4 educational handbook applications covering the proof
 
 ---
 
-## 🚧 Upcoming Project / Waiting confirmation
-
 ### 🚀 AsTrollZ
-> 🌐 **UI Language:** English (Global) | ⚡ **Status:** Pending
+> 🌐 **UI Language:** English (Global) | ⚡ **Status:** Active
 
-An exciting and dynamic space anti-pong arcade game featuring zero-gravity gameplay, multiple spaceship classes with unique traits, online leaderboards via Firebase Cloud Firestore, and rewarded ads to unlock advanced ships.
+An exciting and dynamic space anti-pong arcade game featuring zero-gravity gameplay, 16 unique spaceships across 4 distinct classes, online leaderboards via Firebase Cloud Firestore, and rewarded ads to unlock advanced ships.
 - **Key Features:**
-  - 🛸 **Custom Ships & Classes:** 4 distinct ship classes (Sentinel, Interceptor, Striker, Juggernaut) with upgradeable weapons and engines.
+  - 🛸 **Custom Ships & Classes:** 16 spaceships total (4 distinct classes with 4 unique ships per class: Sentinel, Interceptor, Striker, Juggernaut) featuring upgradeable weapons and engines.
   - 🏆 **Cloud Leaderboards:** Firebase Firestore integration for *All-Time* and *Last 30 Days* rankings.
 - **Tech Stack:** Android SDK, LibGDX, Java 17, Firebase Cloud Firestore, Google Mobile Ads SDK
 - [<img src="https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white" />](https://play.google.com/store/apps/details?id=com.spacedancer.astrollz)
